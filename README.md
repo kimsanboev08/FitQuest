@@ -25,6 +25,13 @@ FitQuest is a mobile app built with Flutter and Firebase that helps users organi
   <img src="assets/Screenshots/Screenshot_1740900643.png" alt="Exercise Filter" width="24%">
 </p>
 
+<p align="center">
+  <img src="assets/Screenshots/Screenshot_1740958285.png" alt="Profile" width="24%">
+  <img src="assets/Screenshots/Screenshot_1740958326.png" alt="History" width="24%">
+  <img src="assets/Screenshots/Screenshot_1740958369.png" alt="Custom Workout" width="24%">
+  <img src="assets/Screenshots/Screenshot_1740900643.png" alt="Exercise Filter" width="24%">
+</p>
+
 ## Features
 - **User Authentication** – Secure login and registration using Firebase Authentication.
 - **Exercise Categorization & Search** – Exercises are grouped by body parts (e.g., Chest, Shoulders, Legs) and can be filtered or looked up by category or name.  
