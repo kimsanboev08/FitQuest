@@ -4,8 +4,6 @@ FitQuest is a mobile app built with Flutter and Firebase that helps users organi
 
 ## Tech Stack
 
----
-
 ### Frontend
 - Flutter (Dart): Cross-platform app UI development
 
