@@ -2,15 +2,15 @@
 
 FitQuest is a mobile app built with Flutter and Firebase that helps users organize their workout routines, track progress, and log exercises with an intuitive and user-friendly interface.
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### Frontend
+- Flutter (Dart): Cross-platform app UI development
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Backend
+- Python: Data processing, analytics
+- Firebase Firestore: Database
+- Firebase Authentication: Handles user sign-ups, logins, and authentication.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
