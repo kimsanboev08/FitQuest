@@ -1,6 +1,6 @@
 # fitquest
 
-A new Flutter project.
+FitQuest is a mobile app built with Flutter and Firebase that helps users organize their workout routines, track progress, and log exercises with an intuitive and user-friendly interface.
 
 ## Getting Started
 
