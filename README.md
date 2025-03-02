@@ -1,16 +1,31 @@
 # fitquest
 
-A new Flutter project.
+FitQuest is a mobile app built with Flutter and Firebase that helps users organize their workout routines, track progress, and log exercises with an intuitive and user-friendly interface.
+---
+<p align="center"> 
+   <img src="assets/screenshots/Screenshot_1696434013.png" alt="Home Screen" width="270" height="570">      
+   <img src="assets/screenshots/Screenshot_1696434229.png" alt="Home Screen" width="270" height="570"> 
+   <img src="assets/screenshots/Screenshot_1696434267.png" alt="Home Screen" width="270" height="570"> 
+</p>   
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- **User Authentication** – Secure login and registration using Firebase Authentication.
+- **Exercise Categorization & Search** – Exercises are grouped by body parts (e.g., Chest, Shoulders, Legs) and can be filtered or looked up by category or name.  
+- **Workout Logging** – Users can log their workouts with details like exercises, sets, reps, and weights.  
+- **Custom Workout Creation** – Allows users to create and save personalized workout routines.  
+- **Progress Tracking** – Users can update and track their weight and other body metrics and performance over time with visual progress charts.  
+- **Profile Management** – Users can update their profile picture and personal details, with changes reflected across the app.  
+- **Workout Collections** – A section with pre-made workout plans or routines for users to follow.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+### Frontend
+- Flutter (Dart): Cross-platform app UI development
+
+### Backend
+- Python: Data processing, analytics
+- Firebase Firestore: Database
+- Firebase Authentication: Handles user sign-ups, logins, and authentication.
+
