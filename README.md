@@ -43,3 +43,8 @@ FitQuest is a mobile app built with Flutter and Firebase that helps users organi
 - Firebase Firestore: Database
 - Firebase Authentication: Handles user sign-ups, logins, and authentication.
 
+## Contact
+For any questions or inquiries, feel free to reach out:
+📧 [bekzodkimsanboev@gmail.com](mailto:bekzodkimsanboev@gmail.com)
+
+
